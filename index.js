@@ -88,3 +88,5 @@ app.get('/usuarios',( req, res) => {
 app.listen(3000, () => {
   console.log(`Deu certo!`)
 })
+
+console.log('aprendendo Git')
